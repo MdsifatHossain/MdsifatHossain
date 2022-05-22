@@ -6,13 +6,13 @@ I am a experienced system administrator with a demonstrated history of working i
 
 Skills:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-.🦾 RHCSA/Networking/HTML/CSS
-.✅ Linux OS/ Windows OS/ RedHat OS/ CentOS/ Ubontu OS/ SUSE OS
-.💥 DHCP/ DNS/ Samba/ NFS/ FTP/ SSH/ Telnet
-.✌ C /C++/ MySQL
-.🌱 I’m currently learning Cloud & Python  
-.💬 Ask me about System Administration 
-.📫 How to reach me: Facebook, Linkedin  
+- 🦾 RHCSA/Networking/HTML/CSS
+- ✅ Linux OS/ Windows OS/ RedHat OS/ CentOS/ Ubontu OS/ SUSE OS
+- 💥 DHCP/ DNS/ Samba/ NFS/ FTP/ SSH/ Telnet
+- ✌ C /C++/ MySQL
+- 🌱 I’m currently learning Cloud & Python  
+- 💬 Ask me about System Administration 
+- 📫 How to reach me: Facebook, Linkedin  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdsifatHossain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-sifat-hossain-461274184//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100007649478341)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ict_all)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UChwfVzChRTz8cbuFL4VYflw)  

@@ -7,11 +7,11 @@ I am a experienced system administrator with a demonstrated history of working i
 #Skills & Experiences:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🦾 RHCSA/Networking/HTML/CSS
-- ✅ Linux OS/ Windows OS/ RedHat OS/ CentOS/ Ubontu OS/ SUSE OS
+- ✅ Linux OS/ Windows OS/ RedHat OS/ CentOS/ Ubuntu OS/ SUSE OS
 - 💥 DHCP/ DNS/ Samba/ NFS/ FTP/Apache/ SSH/ Telnet
-- ✌ C /C++/ MySQL
+- ✌ C /C++/ SQL
 - ✔ Microsoft word/microsoft excel/mircosoft power point
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning AWS, Microsoft Azure, Virtualization & Python 
 - 💬 Ask me about System Administration 
 - 📫 How to reach me: Facebook, Linkedin  
 

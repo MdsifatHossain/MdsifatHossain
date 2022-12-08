@@ -24,7 +24,7 @@ I am a experienced system administrator with a demonstrated history of working i
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdsifatHossain&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdsifatHossain)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MdsifatHossain)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdsifatHossain)  
 
